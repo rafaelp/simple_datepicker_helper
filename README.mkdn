@@ -1,7 +1,7 @@
 SimpleDatepickerHelper
 ======================
 
-This plugins is a helper for Eulerian Javascript Datepicker (http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous).
+This plugin is a helper for Eulerian Javascript Datepicker (http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous).
 
 More information: [http://rafael.adm.br/simple-datepicker-helper](http://rafael.adm.br/simple-datepicker-helper)
 
@@ -58,7 +58,7 @@ All options are available at:
 Licence
 --------
 
-Markdown on Rails is released under the MIT licence.
+Simple Datepicker Helper is released under the MIT licence.
 
 Author
 -------

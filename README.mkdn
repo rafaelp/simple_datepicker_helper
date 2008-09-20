@@ -1,6 +1,6 @@
 #Simple Datepicker Helper
 
-This plugin is a helper for [Eulerian Javascript Datepicker](http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous).
+This plugin is a Ruby on Rails helper for [Eulerian Javascript Datepicker](http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous).
 
 ## DEPENDENCIES
 

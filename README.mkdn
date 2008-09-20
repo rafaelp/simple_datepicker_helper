@@ -1,35 +1,28 @@
-SimpleDatepickerHelper
-======================
+#Simple Datepicker Helper
 
-This plugin is a helper for Eulerian Javascript Datepicker (http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous).
+This plugin is a helper for [Eulerian Javascript Datepicker](http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous).
 
-More information: [http://rafael.adm.br/simple_datepicker_helper](http://rafael.adm.br/simple_datepicker_helper)
-
-Dependencies
-------------
+## DEPENDENCIES
 
 * [prototype](http://prototypejs.org)
 * [script.aculo.us](http://script.aculo.us)
 
-Installation
--------------
+## INSTALLATION
 
-ruby script/plugin install git://github.com/rafaelp/simple_datepicker_helper.git
+    $ ruby script/plugin install git://github.com/rafaelp/simple_datepicker_helper.git
 
 To be able to use the simple_datepicker methods below you need to include the javascript library file and CSS stylesheet in the <head> of your layout template.
 You can do this either by manually including the files via a `javascript_include_tag` and a `stylesheet_link_tag` (the files are both named "simple_datepicker"), OR by using the included `simple_datepicker_includes` helper method, which will do this for you.
 
 Attention: simple_datepicker.js must be called after prototype.js and scriptaculous.js
 
-Usage
-------
+## USAGE
 
-simple_datepicker_for(field_id, options = {})
+    simple_datepicker_for(field_id, options = {})
 
 You can set $DATEPICKER_OPTIONS with default options in your initializers (or environment.rb)
 
-Example
--------
+## EXAMPLE
 
 Put default language in initializers/simple_datepicker_helper.rb
     
@@ -55,12 +48,24 @@ All options are available at:
 
 [http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous](http://www.eulerian.com/en/opensource/datepicker-prototype-scriptaculous)
 
-Licence
---------
+## License
 
-Simple Datepicker Helper is released under the MIT licence.
+Simple Datepicker Helper is released under the MIT License.
 
-Author
--------
+## AUTHOR
 
-[Rafael Lima](http://rafael.adm.br)
+### **Rafael Lima**
+
+Working at [BielSystems](http://bielsystems.com.br) and [Myfreecomm](http://myfreecomm.com.br)
+
+Blog: [http://rafael.adm.br](http://rafael.adm.br)
+
+Podcast: [http://rafael.adm.br/voltandopracasa](http://rafael.adm.br/voltandopracasa)
+
+Github: [http://github.com/rafaelp](http://github.com/rafaelp)
+
+Twitter: [http://twitter.com/rafaelp](http://twitter.com/rafaelp)
+
+### Did you like?
+
+[Recommend me at Working With Rails](http://workingwithrails.com/recommendation/new/person/14248-rafael-lima)

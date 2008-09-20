@@ -56,7 +56,7 @@ Simple Datepicker Helper is released under the MIT License.
 
 ### **Rafael Lima**
 
-Working at [BielSystems](http://bielsystems.com.br) and [Myfreecomm](http://myfreecomm.com.br)
+Working at [BielSystems](http://bielsystems.com.br)
 
 Blog: [http://rafael.adm.br](http://rafael.adm.br)
 
